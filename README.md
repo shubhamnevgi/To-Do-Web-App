@@ -1,5 +1,5 @@
 # To-Do-Web-App
-I built to-do web app with a simple and easy-to-use design so you can focus on your tasks. Adding, organizing, and ticking off tasks is simple, making it easy to manage your to-do list.
+I built to-do list a Progressive Web App with a simple and easy-to-use design so you can focus on your tasks. Adding, organizing, and ticking off tasks is simple, making it easy to manage your to-do list.
 
 
 # Minimalist To-Do Web App
@@ -13,6 +13,7 @@ I built our minimalist to-do web app to keep things simple. It's designed with a
 - Intuitive organization: Easily filter between completed and pending tasks with just a click of a button
 - Utilizes local storage of the browser for seamless task persistence
 - Includes a service worker for offline access
+- Includes a manifest.json to provide Progressive Web App support
 
 ## Getting Started
 To use our to-do web app, simply visit ([shubhamnevgi.github.io/To-Do-Web-App/](https://shubhamnevgi.github.io/To-Do-Web-App/)) in your web browser.
@@ -22,6 +23,7 @@ To use our to-do web app, simply visit ([shubhamnevgi.github.io/To-Do-Web-App/](
 2. Easily toggle between completed and pending tasks using the intuitive organization buttons.
 3. Ticking off your tasks as completed.
 4. Delete your tasks when you are done.
+5. Download it on your device like any other app.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out to us at nevgishubham03@gmail.com.
