@@ -2,9 +2,9 @@
 
 const staticCacheName = 'site-static';
 const assets = [
-  '/index.html',
-  '/js/script.js',
-  '/style.css',
+  '/To-Do-Web-App/index.html',
+  '/To-Do-Web-App/js/script.js',
+  '/To-Do-Web-App/style.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js',
   'https://cdn-icons-png.flaticon.com/256/1187/1187525.png',
