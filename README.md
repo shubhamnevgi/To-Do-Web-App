@@ -15,7 +15,7 @@ I built our minimalist to-do web app to keep things simple. It's designed with a
 - Includes a service worker for offline access
 
 ## Getting Started
-To use our to-do web app, simply visit [app.example.com](https://app.example.com) in your web browser.
+To use our to-do web app, simply visit [shubhamnevgi.github.io/To-Do-Web-App/]([https://app.example.com](https://shubhamnevgi.github.io/To-Do-Web-App/)) in your web browser.
 
 ## Usage
 1. Start adding your tasks.
