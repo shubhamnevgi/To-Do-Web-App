@@ -12,6 +12,7 @@ I built our minimalist to-do web app to keep things simple. It's designed with a
 - Quick task adding
 - Intuitive organization: Easily filter between completed and pending tasks with just a click of a button
 - Utilizes local storage of the browser for seamless task persistence
+- Includes a service worker for offline access
 
 ## Getting Started
 To use our to-do web app, simply visit [app.example.com](https://app.example.com) in your web browser.
